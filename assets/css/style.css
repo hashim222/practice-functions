@@ -1,0 +1,10 @@
+.move-math-container {
+    margin-top: 50px;
+    padding: 100px;
+    background-color: rgba(0, 0, 0, 0.823);
+    color: aliceblue;
+}
+
+.move-math-container>.boxes {
+    font-size: 200%;
+}
